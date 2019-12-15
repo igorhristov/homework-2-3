@@ -1,0 +1,41 @@
+main {
+  text-align: center;
+}
+form {
+  border-radius: 5px;
+  padding: 15px 10px;
+  margin: 0 auto;
+  width: 250px;
+  background: #3d3d3d;
+  color: white;
+  box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.9);
+}
+
+/* input style */
+input {
+  border: 1px solid #676767;
+  width: 80%;
+  background: none;
+  color: whitesmoke;
+  padding: 5px 16px;
+  border-radius: 2px;
+  margin: 8px;
+  outline: none;
+  display: inline-block;
+}
+input::placeholder {
+  color: whitesmoke;
+  padding-left: 10px;
+}
+
+/* button style */
+button {
+  border: none;
+  width: 93%;
+  background: #bac775;
+  color: black;
+  padding: 6px 17px;
+  border-radius: 2px;
+  margin: 8px 0;
+  cursor: pointer;
+}
