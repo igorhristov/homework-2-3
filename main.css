@@ -1,0 +1,12 @@
+/* general css */
+header {
+    text-align: center;
+    margin: 20px;
+    text-transform: uppercase;
+    color: darkblue;
+}
+
+body {
+    background: #BCDEE7;
+    font-family: 'Lato', sans-serif;
+}

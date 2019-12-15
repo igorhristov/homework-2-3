@@ -1,0 +1,62 @@
+/* table */
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th {
+  background: #ffffaa;
+  color: red;
+  font-size: 25px;
+}
+
+td {
+  background: #00ccff;
+}
+
+/* label */
+label {
+  text-align: left;
+  margin-left: 20px;
+}
+
+/* inputs */
+input[type="text"],
+input[type="password"],
+textarea,
+select {
+  width: 90%;
+  background: #ccffcc;
+  margin-left: 5%;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin-left: 5%;
+}
+
+input[type="file"] {
+  margin-left: 30%;
+  background: #ccffcc;
+}
+
+/* buttons */
+button {
+  background: #ccffcc;
+  padding: 5px 100px;
+  cursor: pointer;
+  margin: 1px;
+}
+
+button:hover {
+  background-color: rgba(204, 255, 204, 0.7);
+}
+
+button:first-child {
+  margin-left: 20px;
+}
+
+button:last-child {
+  margin-right: 20px;
+}

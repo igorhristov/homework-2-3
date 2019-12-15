@@ -18,7 +18,7 @@ to look like exercise-2.png
 6. Create these Buttons like on exercise-6.jpg
 
 7.Create a HTML Page that has a Form that looks like exercise-7.png
-
+  
 8.Create a HTML Page that has a Table that looks like exercise-8.png
 
 When writing your code don't forget to make the code look readeble,
