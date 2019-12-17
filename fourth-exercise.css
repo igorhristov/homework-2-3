@@ -52,6 +52,9 @@ button {
 button:hover {
   background-color: rgba(204, 255, 204, 0.7);
 }
+button:focus {
+  background-color: rgba(13, 218, 13, 0.7);
+}
 
 button:first-child {
   margin-left: 20px;
